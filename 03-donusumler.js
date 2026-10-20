@@ -1,0 +1,10 @@
+console.log(5 + 3);
+console.log("5" + 3);
+console.log("5" - 3);
+console.log("5" * "2");
+console.log(true + 1);
+console.log("merhaba" - 1);
+console.log(5 == "5");
+console.log(5 === "5");
+console.log(0 == false);
+console.log(null == undefined);

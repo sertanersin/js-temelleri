@@ -1,0 +1,10 @@
+console.log(typeof "merhaba");
+console.log(typeof 42);
+console.log(typeof 3.14);
+console.log(typeof true);
+console.log(typeof undefined);
+console.log(typeof null);
+console.log(typeof [1,2,3]);
+console.log(typeof {ad: "Sertan"});
+console.log(typeof function (){});
+console.log(typeof "42");
